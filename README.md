@@ -13,3 +13,4 @@
 |2024|SMA 2024 라오스 국제 학술대회|포스터 발표|
 |2025|한국 ITS 학회 2025년도 춘계 학부논문경진대회|논문 제출|
 |2025|건설용 자갈 암석 종류 분류 AI 경진대회|[수상 (1st)](https://github.com/dd0nw/rock_classification_dacon)|
+|2025|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|상위 4%|
