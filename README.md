@@ -17,7 +17,7 @@
 |2024|교내 SW 교육 활성화를 위한 거대 언어모델 기반 SW 교육 서비스 플랫폼 개발|[개발](https://blog.naver.com/limcon00/223719457011)|조선대학교|
 |2024|SMA 2024 라오스 국제 학술대회|논문/포스터|한국스마트미디어학회|
 |2025|한국 ITS 학회 2025년도 춘계 학부논문경진대회|논문|한국ITS학회|
-|2025|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|상위 3%|헥토(Hecto), 주관:데이콘|
+|2025|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|[상위 3%](https://github.com/parag0hz/DACON-HAI-Hecto-AI-Challenge)|헥토(Hecto), 주관:데이콘|
 |2025|2025 Samsung Collegiate Programming Challenge : AI 챌린지|본선|삼성전자, 삼성리서치, 운영:데이콘|
 |2025|호남IS해커톤: AI 데이터를 활용한 해커톤|[본선](https://github.com/parag0hz/honam)|광주정보문화산업진흥원|
 
