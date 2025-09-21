@@ -31,7 +31,9 @@
 |2024|사) 스마트인재개발원 기본역량프로젝트|우수상|스마트인재개발원|
 |2024|사) 스마트인재개발원 실전역량프로젝트|[우수상](https://blog.naver.com/limcon00/223561648729)|스마트인재개발원|
 |2024|조선대학교 IT festival 아이디어 공모전|동상|조선대학교|
-|2025|건설용 자갈 암석 종류 분류 AI 경진대회|[수상 (1st)](https://github.com/dd0nw/rock_classification_dacon)|데이콘, 후원:한국지능정보사회진흥원(NIA)|
+|2025|건설용 자갈 암석 종류 분류 AI 경진대회|[수상 (1st)](https://github.com/parag0hz/rock_classification_dacon)|데이콘, 후원:한국지능정보사회진흥원(NIA)|
+|2025|호남IS코딩챌린지|[대상](https://github.com/parag0hz/honam_coding)|전주ICT|
+
 
 
 ### Qulifications
