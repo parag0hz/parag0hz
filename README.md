@@ -19,7 +19,7 @@
 |2025|한국 ITS 학회 2025년도 춘계 학부논문경진대회|논문|한국ITS학회|
 |2025|HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회|[15th](https://github.com/parag0hz/DACON-HAI-Hecto-AI-Challenge)|헥토(Hecto), 주관:데이콘|
 |2025|조선대학교 전공나래단 2025|전공나래단|중•고등학생 학과 설명|
-|2025|2025 Samsung Collegiate Programming Challenge : AI 챌린지|35th|삼성전자, 삼성리서치, 운영:데이콘|
+|2025|2025 Samsung Collegiate Programming Challenge : AI 챌린지|[35th]((https://github.com/parag0hz/SCPC)|삼성전자, 삼성리서치, 운영:데이콘|
 |2025|호남IS해커톤: AI 데이터를 활용한 해커톤|[본선](https://github.com/parag0hz/honam)|광주정보문화산업진흥원|
 |2025|Visually-rich Document Understanding : 2025 Samsung AI Challenge|[29th](https://github.com/parag0hz/VDU)|삼성전자 AI센터|
 
