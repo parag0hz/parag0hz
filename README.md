@@ -11,7 +11,7 @@
 ### 경험
 1. [2023.07.15 ~ 2023.07.16] 광주광역시정보교육원 대학생 멘토
 2. [2024.08.12 ~ 2024.09.13] [한국 AI스마트홈산업협회 지능형 홈 대국민 아이디어 공모전 본선]([https://blog.naver.com/limcon00/223719489070](https://kashi.or.kr/events/notice.html?admin_mode=read&no=2047&make=&search=&type=&page=4&sub=))
-3. [2024.09.01 ~ 2024.11.30] [교내 SW 교육 활성화를 위한 거대 언어모델 기반 SW 교육 서비스 플랫폼 개발 프론트엔드 개발](https://blog.naver.com/limcon00/223719457011)
+3. [2024.09.01 ~ 2024.11.30] [교내 SW 교육 활성화를 위한 거대 언어모델 기반 SW 교육 서비스 플랫폼 프론트엔드 개발](https://blog.naver.com/limcon00/223719457011)
 4. [2024.12.19 ~ 2024.12.22] [SMA 2024 라오스 국제 학술대회 포스터 세션 발표](https://sma2024.kism.or.kr/)
 5. [2025.04.24 ~ 2025.04.25] [한국 ITS 학회 2025년도 춘계 학부논문경진대회 논문 제출](https://kits.or.kr/sub/sub0603.html?pageNm=article&journal=3&code=465705&issue=35462&Page=38&year=2025&searchType=&searchValue=)
 6. [2025.05.19 ~ 2025.06.16] [HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 15th](https://github.com/parag0hz/DACON-HAI-Hecto-AI-Challenge)
