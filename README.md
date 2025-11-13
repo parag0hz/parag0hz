@@ -21,7 +21,7 @@
 10. [2025.08.04 ~ 2025.09.12] Visually-rich Document Understanding : 2025 Samsung AI Challenge (29th) [링크](https://github.com/parag0hz/VDU)
 11. [2025.10.15 ~ 2025.10.16] AI TECH+ 2025 전시회 부스 운영 (팀명 : 프로덕) [링크](https://www.etnews.com/20251014000048)
 12. [2025.10.28 ~ 2025.10.29] 2025 전국 ICT이노베이션스퀘어 아이디어 및 SW개발 공모전 (본선) [링크](https://www.ictis2025.kr/)
-13. [2025.10.31 ~ 2025.11.01] 2025 ACDC(AI 해킹방어 대회) 26th (5 solved) [링크](https://acdc.ai.kr/)
+13. [2025.10.31 ~ 2025.11.01] 2025 ACDC(AI 해킹방어 대회) (26th | 5 solved) [링크](https://acdc.ai.kr/)
 14. [2025.11.03 ~ 2025.11.14] 2025 POSTECH OIBC 일사량 추정 경진대회 (55th) [링크](https://dataen.ai/challenge)
 
 
