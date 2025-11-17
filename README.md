@@ -19,13 +19,14 @@
 8. [2025.06.19 ~ 2025.07.28] 2025 Samsung Collegiate Programming Challenge : AI 챌린지 (35th) [링크](https://github.com/parag0hz/SCPC)
 9. [2025.06.23 ~ 2025.08.22] 호남IS해커톤: AI 데이터를 활용한 해커톤 (본선) [링크](https://github.com/parag0hz/honam)
 10. [2025.08.04 ~ 2025.09.12] Visually-rich Document Understanding : 2025 Samsung AI Challenge (29th) [링크](https://github.com/parag0hz/VDU)
-11. [2025.10.15 ~ 2025.10.16] AI TECH+ 2025 전시회 부스 운영 (팀명 : 프로덕) [링크](https://www.etnews.com/20251014000048)
-12. [2025.10.28 ~ 2025.10.29] 2025 전국 ICT이노베이션스퀘어 아이디어 및 SW개발 공모전 (본선) [링크](https://www.ictis2025.kr/)
-13. [2025.10.31 ~ 2025.11.01] 2025 ACDC(AI 해킹방어 대회) (26th | 5 solved) [링크](https://acdc.ai.kr/)
-14. [2025.11.03 ~ 2025.11.14] 2025 POSTECH OIBC 일사량 추정 경진대회 (55th) [링크](https://dataen.ai/challenge)
-15. [2025.11.26] 2025 빛가람 에너지벨리 소프트웨어 작품 경진대회
-16. [2025.11.28] 조선대학교 IT 페스티벌 아이디어 공모전
-17. [2025.11.24 ~ 2025.11.28] ICT이노베이션스퀘어 우수성과자 국외연수 (중국) 
+11. [2025.10.13 ~ 2025.11.07] 조선대학교 교내 AI 챌린지 (6th) [링크](https://www.kaggle.com/competitions/2025-csu-sw-ai-challenge/overview)
+12. [2025.10.15 ~ 2025.10.16] AI TECH+ 2025 전시회 부스 운영 (팀명 : 프로덕) [링크](https://www.etnews.com/20251014000048)
+13. [2025.10.28 ~ 2025.10.29] 2025 전국 ICT이노베이션스퀘어 아이디어 및 SW개발 공모전 (본선) [링크](https://www.ictis2025.kr/)
+14. [2025.10.31 ~ 2025.11.01] 2025 ACDC(AI 해킹방어 대회) (26th | 5 solved) [링크](https://acdc.ai.kr/)
+15. [2025.11.03 ~ 2025.11.14] 2025 POSTECH OIBC 일사량 추정 경진대회 (55th) [링크](https://dataen.ai/challenge)
+16. [2025.11.26] 2025 빛가람 에너지벨리 소프트웨어 작품 경진대회
+17. [2025.11.28] 조선대학교 IT 페스티벌 아이디어 공모전
+18. [2025.11.24 ~ 2025.11.28] ICT이노베이션스퀘어 우수성과자 국외연수 (중국) 
 
 
 ### 자격사항
