@@ -15,7 +15,7 @@
 2. [2024.08.12 ~ 2024.09.13] 한국 AI스마트홈산업협회 지능형 홈 대국민 아이디어 공모전 (본선) [링크](https://kashi.or.kr/events/notice.html?admin_mode=read&no=2047&make=&search=&type=&page=4&sub=)
 3. [2024.09.01 ~ 2024.11.30] 교내 SW 교육 활성화를 위한 거대 언어모델 기반 SW 교육 서비스 플랫폼 프론트엔드 개발 [링크](https://blog.naver.com/limcon00/223719457011)
 4. [2024.12.19 ~ 2024.12.22] SMA 2024 라오스 국제 학술대회 포스터 세션 발표 [링크](https://sma2024.kism.or.kr/)
-5. [2025.04.24 ~ 2025.04.25] 한국 ITS 학회 2025년도 춘계 학부논문경진대회 논문 작성 [링크](https://kits.or.kr/sub/sub0603.html?pageNm=article&journal=3&code=465705&issue=35462&Page=38&year=2025&searchType=&searchValue=)
+5. [2025.04.24 ~ 2025.04.25] 한국 ITS 학회 2025년도 춘계 학부논문경진대회 [링크](https://kits.or.kr/sub/sub0603.html?pageNm=article&journal=3&code=465705&issue=35462&Page=38&year=2025&searchType=&searchValue=)
 6. [2025.05.19 ~ 2025.06.16] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (15th) [링크](https://github.com/parag0hz/DACON-HAI-Hecto-AI-Challenge)
 7. [2025.06 ~ ] 조선대학교 전공나래단 2025 중•고등학생 대상 학과 설명
 8. [2025.06.19 ~ 2025.07.28] 2025 Samsung Collegiate Programming Challenge : AI 챌린지 (35th) [링크](https://github.com/parag0hz/SCPC)
@@ -26,9 +26,10 @@
 13. [2025.10.28 ~ 2025.10.29] 2025 전국 ICT이노베이션스퀘어 아이디어 및 SW개발 공모전 (본선) [링크](https://www.ictis2025.kr/)
 14. [2025.10.31 ~ 2025.11.01] 2025 ACDC(AI 해킹방어 대회) (26th | 5 solved) [링크](https://acdc.ai.kr/)
 15. [2025.11.03 ~ 2025.11.14] 2025 POSTECH OIBC 일사량 추정 경진대회 (55th) [링크](https://dataen.ai/challenge)
-16. [2025.11.21] 호남ICT이노베이션스퀘어 성과공유회 발표
-17. [2025.11.24 ~ 2025.11.28] ICT이노베이션스퀘어 우수성과자 국외연수 (중국)
-18. [2025.12.18 ~ 2025.12.20] 제주대학교 RISE사업단 x groomthon: 지역문제 해결 AI 아이디어톤
+16. [2025.11.14] 한국 ITS 학회 2025년도 추계 학부논문경진대회
+17. [2025.11.21] 호남ICT이노베이션스퀘어 성과공유회
+18. [2025.11.24 ~ 2025.11.28] ICT이노베이션스퀘어 우수성과자 국외연수 (중국)
+19. [2025.12.18 ~ 2025.12.20] 제주대학교 RISE사업단 x groomthon: 지역문제 해결 AI 아이디어톤
 
 
 ### 자격사항
