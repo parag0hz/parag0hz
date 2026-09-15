@@ -1,14 +1,15 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=limcon00)](https://solved.ac/limcon00)
 
 ### 🏆수상
-1. [2025.11.28] 2025 조선대학교 IT 페스티벌 아이디어 공모전 (은상)
-2. [2025.11.26] 한전KDN 빛가람 에너지밸리 소프트웨어 작품 경진대회 (장려상) [링크](https://github.com/parag0hz/KDN)
-3. [2025.09.19] 호남IS코딩챌린지 (대상) *전주정보문화산업진흥원장상 [링크](https://github.com/parag0hz/honam_coding)
-4. [2025.06.25] DACON 건설용 자갈 암석 종류 분류 AI 경진대회 (수상 | 1st) [링크](https://github.com/parag0hz/rock_classification_dacon)
-5. [2024.12.06] 2024 조선대학교 IT 페스티벌 아이디어 공모전 동상
-6. [2024.08.23] 스마트인재개발원 실전역량프로젝트 우수상
-7. [2024.04.04] 스마트인재개발원 Database 성적 우수상
-8. [2024.04.04] 스마트인재개발원 기본역량프로젝트 우수상
+1. [2026.09.08] 제13회 전국 ICT융합공모전: 장려상
+2. [2026.08.21] 2026 호남 IS 코딩챌린지: 장려상
+3. [2026.08] ML Empowerment Build Challenge 2.0: 3rd
+4. [2026.07.24] UC San Diego Qualcomm Institute AI Entrepreneurship Program: 3rd
+5. [2026.07.24] 전북 공공데이터·AI 창업경진대회: 최우수상 
+6. [2025.11.26] 한전KDN 빛가람 에너지밸리 소프트웨어 작품 경진대회: 장려상
+7. [2025.09.19] 호남IS코딩챌린지:대상 
+8. [2025.06.25] DACON 건설용 자갈 암석 종류 분류 AI 경진대회: 1st
+
 
 
 ### 경험
@@ -33,10 +34,13 @@
 19. [2023.07.15 ~ 2023.07.16] 광주광역시정보교육원 대학생 멘토
 
 ### 자격사항
-1. [2025.11.01] TOPCIT LV.3 (428점)
-2. [2024.11.30] TOEIC SPEAKING IH(140) [링크](https://blog.naver.com/limcon00/223741920641)
-3. [2024.06.07] ADsP(데이터분석 준전문가) [링크](https://blog.naver.com/limcon00/223468380252)
+1. [2026.08.17] Google Cloud Certified - Professional Machine Learning Engineer
+2. [2025.11.01] TOPCIT LV.3 (428점)
+3. [2024.11.30] TOEIC SPEAKING IH(140)
+4. [2024.06.07] ADsP(데이터분석 준전문가)
    
 ### 교육사항
-1. [2026.01.02 ~ 2026.01.27] LG Aimers 8기
-2. [2024.02.14 ~ 2024.08.23] 스마트인재개발원 사물지능기반 지능제어서비스 3회차과정 수료
+1. [2026.07] UC San Diego Qualcomm Institute AI Entrepreneurship Program
+2. [2026.01] University of Guam Short-term Exchange Program
+3. [2025.11] ICT Innovation Square Global Training - China
+4. [2024.02.14 ~ 2024.08.23] 스마트인재개발원 사물지능기반 지능제어서비스 3회차과정 수료
