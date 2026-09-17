@@ -11,7 +11,8 @@
 ### 경험
 1. [2026] AI Rookie 일반트랙
    - 최종 20팀 선정 / 본선 심사 예정
-2. [2026.09 ~ ] 씨에이에스 주식회사 기업부설연구소 AI Engineer Intern
+   - [BeaverTalk](https://www.beavertalk.im/) - 외국인 한국어 발음 진단 및 개인화 피드백 서비스
+2. [2026.09 ~ ] 씨에이에스 기업부설연구소 AI Engineer Intern
    - On-Premise LLM, RAG, Search 개발
 3. [2024.09 ~ ] Sensor Fusion Based AI Lab
    - PPG-to-ECG reconstruction 및 생체신호 AI 연구
